@@ -30,3 +30,7 @@ def main():
             print(f"The '{char}' character was found {count} times\n")
 if __name__ == '__main__':
     main()
+
+
+
+
